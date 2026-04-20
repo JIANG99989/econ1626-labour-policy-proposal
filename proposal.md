@@ -68,3 +68,67 @@ Set up internal priority recruitment channels for drivers.
 **Advantages:** Best balance of efficiency, fairness and regulatory acceptance. 
 
 **Disadvantages:** Higher cost and requires greater ability to execute coordination.
+
+## Recommended plan and implementation plan
+**Recommended Scheme：**
+
+Uber is recommended to adopt Option 3: Autonomous Driving Transformation Compact.
+
+**Reason 1:** More commercially sound is more important than short-term cost savings, reducing regulatory resistance and brand damage. 
+
+**Reason 2:** The distribution is much fair, and part of the technical bonus is used to absorb the cost of transformation, which can reduce the sense of replacement of the driver group. 
+
+**Reason 3:** Business sustainability: AV also creates new jobs, and establishing a transfer system in advance is more effective than reactive crisis response. 
+
+**Implementation timeline**
+**0–3 months**
+
+The "AV Transformation Office" was established by Uber's CEO, with members from operations, people, finance, and legal departments. Identify alternative cities and groups of alternative drivers. 
+
+**3–9 months**
+
+Design income protection rules and eligibility criteria, contract with community colleges, vocational training institutions, and AV partners, and then establish a driver communication network and multilingual counseling mechanism. 
+
+**9–18 months**
+
+Launch programs in 2–3 AV pilot cities and initiate internal priority hiring: remote support, fleet maintenance, passenger safety operations, and quality inspection.  And the first workforce impact report was released one year after the project was launched. 
+
+**18–36 months**
+
+Based on the pilot evaluation, it will begin to expand to all AV landing cities if feasible. And publicly disclose the number of people affected, the scale of subsidies, the transfer rate and income recovery every year.
+
+**Division of responsibilities**
+
+**AV Business Manager:** Deploy cities to promote AV.
+
+**Chief Human Resources Officer:** Transition and training for Uber drivers.
+
+**CFO:** Transformation fund design and budget control.
+
+**Public Policy Team:** Local Regulatory Coordination.
+
+**Legal & Compliance:** Data and Risk Review.
+
+**Cost and source of funding**
+
+It is proposed to establish a three-year initial fund of $150 million to $200 million, which represents a small percentage of Uber's annual revenue, and can be covered by three parts:
+
+**1:** Uber Enterprise Matching Funds.
+
+**2:** Small surcharge for AV orders.
+
+**3:** Co-funded by autonomous driving partner companies.
+
+**Key Performance Indicators (KPIs)**
+
+100% alternative driver to receive advance notice.
+
+More than 60% of eligible Uber drivers participate in the transformation program.
+
+40% of participants achieved reemployment or internal transfer within 6 months.
+
+Impacting the median income of Uber drivers after transition to a 15% reduction.
+
+There are no major labor conflicts or regulatory incidents in the implementation of AV new city.
+
+Passenger safety and service scores are not lower than existing standards.
