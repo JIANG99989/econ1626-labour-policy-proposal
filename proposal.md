@@ -132,3 +132,17 @@ Impacting the median income of Uber drivers after transition to a 15% reduction.
 There are no major labor conflicts or regulatory incidents in the implementation of AV new city.
 
 Passenger safety and service scores are not lower than existing standards.
+
+**Risks and mitigation measures**
+
+**Risk 1:** It is still difficult to find employment after training.
+
+**Mitigation:** Align "training" with "job channels" and prioritize roles for Uber employees and partners rather than just training. 
+
+**Risk 2:** Low participation rate of Uber drivers.
+
+**Mitigation:** Improvement using cash incentives, mobile applications, and community partnership methods.
+
+**Risk 3:** The speed of AI autonomous driving replacement is lower than expected.
+
+**Mitigation method:** Prioritize the issuance policy according to the city and order type, do not spend large-scale in advance, and avoid cash flow problems.
