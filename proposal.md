@@ -35,3 +35,36 @@ From a fair point of view, autonomous driving may bring overall efficiency impro
 |Option 1: Market Leadership|Deploy AV quickly with no dedicated transformation measures|Medium|Low|High|Low|Medium|
 |Option 2: Retraining is preferred|Provide Training and re-employment support, but there is no income guarantee|Medium|Medium|Medium and High|Medium|Medium|
 |Option 3: Autonomous driving transformation contract|Phased deployment + income protection + training + internal transfer + revenue sharing|High|High|Medium|High|High|
+
+**Option 1: Rapid deployment through market-led delivery**
+
+With business efficiency at its core, Uber accelerates autonomous driving cooperation and implementation, and does not provide specific compensation or transition support for affected drivers.
+
+**Advantages:** This is the lowest cost and fastest way to execute, which may be popular in the capital market. 
+
+**Disadvantages:** Uber drivers are dissatisfied and face negative media coverage, local government scrutiny, and labor disputes. In the long run, it could damage Uber's reputation. 
+
+**Option 2: Uber only provides retraining and employment services**
+
+Uber provides digital skills training, resume coaching, job placement, and the opening of applications for some fleet operations positions for affected drivers. 
+
+**Advantages:** Easier to accept, moderate cost. 
+
+**Disadvantages:** Training alone is often not enough to address income disconnects. Experience shows that without cash support and clear job pathways, participation and conversion rates are often limited. 
+
+**Option 3: Establish an "autonomous driving transformation contract"**
+
+Core content includes:
+
+90 days' advance notice for drivers in affected cities.
+
+Establish a transitional income guarantee to provide income subsidies for 3–6 months to eligible drivers.
+
+
+Provide training and certification support for remote assistance, fleet operation and maintenance, customer support, safety operations and other positions.
+
+Set up internal priority recruitment channels for drivers.
+
+**Advantages:** Best balance of efficiency, fairness and regulatory acceptance. 
+
+**Disadvantages:** Higher cost and requires greater ability to execute coordination.
