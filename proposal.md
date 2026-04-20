@@ -22,3 +22,16 @@ Immigrants, ethnic minorities, and middle-aged and elderly workers.
 Workers who lack formal education but have driving experience.
 Workers who are highly dependent on flexible working hours.
 From a fair point of view, autonomous driving may bring overall efficiency improvement and safety benefits, but if the revenue is concentrated and the cost is borne by Uber drivers, it will form a clear privatization of technical dividends and socialization of transformation costs.
+## Standards-based policy options
+## Evaluation Standards
+1. Efficiency and cost control
+2. Fairness to workers
+3. Implementation feasibility
+4. Regulatory and brand risk control
+5. Long-term talent and operational resilience (comprehensive evaluation)
+
+|Options| Core content | Cost | Fairness | Feasibility | Risk control | Comprehensive evaluation |
+|:------:|:------------:|:----:|:--------:|:-----------:|:------------:|:------------------------:|
+|Option 1: Market Leadership|Deploy AV quickly with no dedicated transformation measures|Medium|Low|High|Low|Medium|
+|Option 2: Retraining is preferred|Provide Training and re-employment support, but there is no income guarantee|Medium|Medium|Medium and High|Medium|Medium|
+|Option 3: Autonomous driving transformation contract|Phased deployment + income protection + training + internal transfer + revenue sharing|High|High|Medium|High|High|
